@@ -196,7 +196,7 @@
 		"outerColor": [180,240,240],
 		"innerColor": [15,0,10],
 		"uniqueName": "United Principalities",
-		"uniques": ["+[5]% Production when constructing [melee units]", "+2 happiness for every city connected to capital"],
+		"uniques": ["[+5]% Production when constructing [Melee] units [in all cities]", "[+2 happiness] [in all cities connected to capital]"],
 		"cities": ["Bucharest", "Cluj-Napoca", "Timişoara", "Iaşi", ",Constanţa", "Craiova", "Braşov", "Galaţi", "Ploieşti", "Oradea", "Brăila", "Arad", "Piteşti", "Sibiu", "Bacău", "Târgu Mureş", "Baia Mare", "Buzău", "Botoşani", "Satu Mare", "Râmnicu", "Vâlcea", "Drobeta-Turnu Severin", "Suceava", "Piatra Neamţ"]
 	},
 	{
